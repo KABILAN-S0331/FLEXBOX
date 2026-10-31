@@ -1791,6 +1791,7 @@ footer {
 
 ```
 ## OUTPUT
+![alt text](image.png)
 
 
 ## RESULT
