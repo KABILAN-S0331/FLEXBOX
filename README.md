@@ -560,9 +560,11 @@ Upload to GitHub Pages for free hosting.
 
 </body>
 </html>
+
 ```
 
-### CSS 
+### css
+
 ```
 
 /* GLOBAL SETTINGS */
@@ -1784,10 +1786,12 @@ footer {
         animation: none;
     }
 }
-```
 
+
+
+```
 ## OUTPUT
-![alt text](image.png)
+
 
 ## RESULT
 The program for creating commercial website using CSS Flexbox is executed successfully.
